@@ -1,0 +1,8 @@
+.listCharacter{
+    margin-top: 80px;
+     height:100vh;
+     background-color: rgb(240, 195, 140);
+ }
+ li{
+    list-style-type: none;
+ }

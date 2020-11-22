@@ -1,0 +1,17 @@
+.cardImg{
+    margin:0 auto;
+    width:6em;
+    height: 6em;
+}
+.card{
+    background-color: cadetblue;
+    margin: 2%;
+}
+
+.cardBody{
+    margin:0 auto;
+}
+.btn-link-char{
+    color:black !important;
+    border: 4mm ridge rgba(170, 50, 220, .6);
+}

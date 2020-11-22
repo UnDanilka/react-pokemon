@@ -1,0 +1,7 @@
+.home{
+
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+   margin-top: 80px;
+    background-color: rgb(240, 195, 140);
+}
